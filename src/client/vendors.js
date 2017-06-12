@@ -1,0 +1,8 @@
+require('babel-polyfill')
+require('isomorphic-fetch')
+require('prop-types')
+require('react')
+require('react-dom')
+require('react-redux')
+require('react-router-dom')
+require('redux')
